@@ -1,0 +1,8 @@
+# ignore unrelated folders
+dht
+ds18b20_driver
+esp-_blinky
+esp8266_docs
+esp_8266_test
+libraries
+stm32f103
